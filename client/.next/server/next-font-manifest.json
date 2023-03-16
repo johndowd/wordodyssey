@@ -1,0 +1,10 @@
+{
+  "pages": {},
+  "app": {
+    "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/node_modules/next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"weight\":\"300\",\"subsets\":[\"latin\"]}],\"variableName\":\"roboto\"}": [
+      "static/media/7d8c9b0ca4a64a5a-s.p.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

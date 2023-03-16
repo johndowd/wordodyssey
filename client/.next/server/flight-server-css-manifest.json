@@ -1,0 +1,16 @@
+{
+  "__entry_css_mods__": {
+    "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/src/app/page": [
+      "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/src/app/page.module.css",
+      "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/node_modules/next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"weight\":\"300\",\"subsets\":[\"latin\"]}],\"variableName\":\"roboto\"}",
+      "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/src/app/globals.css"
+    ]
+  },
+  "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/src/app/page.tsx": [
+    "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/node_modules/next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"weight\":\"300\",\"subsets\":[\"latin\"]}],\"variableName\":\"roboto\"}",
+    "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/src/app/page.module.css"
+  ],
+  "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/src/app/layout.tsx": [
+    "/Users/johndowd/Projects/wordodyssey/wordodyssey/client/src/app/globals.css"
+  ]
+}
